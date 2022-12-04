@@ -1,0 +1,10 @@
+{
+    "name": {
+        "message": "Amazon Smile Omdirigere",
+        "description": "Extension name"
+    },
+    "description": {
+        "message": "Automatisk omdirigerer brukere som besøker 'amazon.com' til den tilsvarende 'smile.amazon.com' siden",
+        "description": "Description"
+    }
+}

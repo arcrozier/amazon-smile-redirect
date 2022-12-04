@@ -1,0 +1,10 @@
+{
+    "name": {
+        "message": "Amazon Smile Redirect",
+        "description": "Extension name"
+    },
+    "description": {
+        "message": "Automatically redirects users who visit 'amazon.com' to the corresponding 'smile.amazon.com' page",
+        "description": "Description"
+    }
+}
